@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharth1627
-- 👀 I’m interested in development and solution architecture
+- 👀 I’m interested in full stack development and solution architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at sharath1627@gmail.com
 
